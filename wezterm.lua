@@ -17,5 +17,7 @@ config.colors.background = '#101010'
 
 -- Window
 config.window_background_opacity = 0.95
+-- blur
+config.macos_window_background_blur = 20
 
 return config
